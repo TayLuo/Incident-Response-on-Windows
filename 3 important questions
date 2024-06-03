@@ -1,0 +1,4 @@
+When examining a system that has been compromised or suspected of being compromised, there are three crucial questions that need to be addressed. The answers to these questions can significantly impact the direction or conclusion of the investigation:
+1.	Is there any active malware present in the system?
+2.	Are there any signs of suspicious internal or external communication?
+3.	Is there any form of persistence present?
