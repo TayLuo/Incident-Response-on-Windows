@@ -5,7 +5,7 @@
 - <b>Incident Response Procedure </b>
   - [Procedure for incident response](https://github.com/TayLuo/Incident-Response-on-Windows/blob/main/Incident%20Response%20on%20Windows%20OS%20.drawio.pdf)
 - <b>Three Important Things </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Three Important Questions](https://github.com/TayLuo/Incident-Response-on-Windows/blob/main/3%20important%20questions)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
