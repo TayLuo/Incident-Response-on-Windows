@@ -8,7 +8,7 @@
   - [Three Important Questions](https://github.com/TayLuo/Incident-Response-on-Windows/blob/main/3%20important%20questions)
 - <b>Tools for investigation</b>
   - [Free tools that ce be used](https://github.com/TayLuo/Incident-Response-on-Windows/blob/main/Free%20tools%20for%20investigating%20Windows)
-- <b>C# (.NET Desktop Applications)</b>
+- <b>Suspicious User Detection</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
