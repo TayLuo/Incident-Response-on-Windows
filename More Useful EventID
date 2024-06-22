@@ -1,0 +1,27 @@
+There are more useful EventID which can help to detect malicious activity in Windows OS. 
+
+Here are the following: 
+
+EventID  "4697" - To detect a newly created service.
+         "4657" - A registry value is changed.
+         "4688" - is logged when a process starts,
+                  and it provides detailed information 
+                  about the process, including the creator
+                  process and the command line used to start 
+                  the new process. It gives a clear what's happening
+                  in the system.
+
+EventId 4688 is turned off by default, here are the steps to turn it on in your environment:
+
+1: Edit group policy
+2: Computer configuration --- Windows Settings
+  --- Security Settings --Advanced Audit Configuration 
+  Policy -- Detailed Tracking -- Audit Process Creation
+  -- Policy - Configure the following audit event -- Success 
+
+Next to enable Process Command Line: 
+1: computer configuration
+2: Administrative templeate -- 
+   system -- audit process creation 
+    -- Double click - Enable 
+
