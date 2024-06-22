@@ -9,7 +9,7 @@
 - <b>Tools for investigation</b>
   - [Free tools that can be used](https://github.com/TayLuo/Incident-Response-on-Windows/blob/main/Free%20tools%20for%20investigating%20Windows)
 - <b>Live Memory Analysis</b>
- - [Memory Analysis](https://github.com/TayLuo/Incident-Response-on-Windows/blob/main/Free%20tools%20for%20investigating%20Windows)
+ - [Memory Analysis](https://github.com/TayLuo/Incident-Response-on-Windows/blob/main/Live%20Memory%20Analysis)
 - <b>Suspicious User Detection</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
