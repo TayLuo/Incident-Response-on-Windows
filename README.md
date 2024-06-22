@@ -11,9 +11,7 @@
 - <b>Live Memory Analysis</b>
   - [Memory Analysis](https://github.com/TayLuo/Incident-Response-on-Windows/blob/main/Live%20Memory%20Analysis)
 - <b>Suspicious User Detection</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Malicious User](https://github.com/TayLuo/Incident-Response-on-Windows/blob/main/Malicious%20User)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
