@@ -1,0 +1,20 @@
+During an incident response procedure, there are 2 things that we must quickly evaluate.
+
+Is there currently a user in the system that should not be there?
+Has a user been created during the attack and deleted after that?
+
+Here are the following notes when comes to deal with supicious user detection:
+
+"net user" on CMD or "get-localuser" on PowerShell will list all the users
+
+“net user USERNAME”  gives a detailed information 
+regarding this specific user if there is a supicious user.
+
+Another method is to maintain control through “lusrmgr”. For this, 
+activate “run: with “Windows + R” and click OK by typing “lusrmgr.msc”
+In the window that pops up, there are the “Users” group and list the users.
+
+Users That Have Been Created in The Past:
+Filter it in the security log, EventId "4720".
+
+
