@@ -13,7 +13,7 @@
 - <b>Suspicious User Detection</b>
   - [Malicious User](https://github.com/TayLuo/Incident-Response-on-Windows/blob/main/Malicious%20User)
 - <b>Task Scheduler</b>
-  - [EventID 4698 & 4702](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [EventID 4698 & 4702](https://github.com/TayLuo/Incident-Response-on-Windows/blob/main/Task%20Scheduler%20Detection)
   - - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - - <b>Python</b>
