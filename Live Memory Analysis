@@ -1,0 +1,8 @@
+Processes and Services:
+
+Suspicious Processes: Look for unusual or unknown processes that may indicate malware or other malicious activity.
+Parent-Child Relationships: Verify the legitimacy of processes by examining their parent-child relationships.
+Network Connections:
+
+Active Connections: Check for unusual or unauthorized network connections.
+Listening Ports: Identify open ports and verify if they are expected.
