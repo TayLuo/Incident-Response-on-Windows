@@ -8,8 +8,7 @@
   - [Three Important Questions](https://github.com/TayLuo/Incident-Response-on-Windows/blob/main/3%20important%20questions)
 - <b>Tools for investigation</b>
   - [Free tools that can be used](https://github.com/TayLuo/Incident-Response-on-Windows/blob/main/Free%20tools%20for%20investigating%20Windows)
-- <b>Live Memory Analysis</b>
-- [Key Things to Look for During Live Memory Analysis](https://github.com/TayLuo/Incident-Response-on-Windows/blob/main/3%20important%20questions)
+- <b>Live Memory Analysis</b>(https://github.com/TayLuo/Incident-Response-on-Windows/blob/main/Live%20Memory%20Analysis)
 - <b>Suspicious User Detection</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
