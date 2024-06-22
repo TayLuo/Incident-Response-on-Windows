@@ -1,0 +1,4 @@
+There are two powerful Security logs:
+
+  Event ID 4698: A scheduled task was created
+  Event ID 4702: A scheduled task was updated
