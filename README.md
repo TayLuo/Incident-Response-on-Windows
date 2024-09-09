@@ -1,5 +1,5 @@
 # Incident-Response-on-Windows
-- [Introduction and Skills Learned]()
+- [Introduction and Skills Learned](https://github.com/TayLuo/Incident-Response-on-Windows/blob/main/Introduction)
 
 <h2>👨‍💻 Incident Response on Windows:</h2>
 
